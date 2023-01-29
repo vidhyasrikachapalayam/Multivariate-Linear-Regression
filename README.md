@@ -44,7 +44,8 @@ regr=linear_model.LinearRegression()
 
 
 ## Output:
-![multivariate.png](./multivariate.png)
+![multivariate](https://user-images.githubusercontent.com/119477817/215306964-71f76c93-df87-4244-8beb-942d95945cd4.png)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
